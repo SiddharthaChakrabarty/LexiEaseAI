@@ -130,7 +130,7 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
 ### 6. **Notes & Mind Map Generation from PDF**
    - Converts textual content from PDFs into a structured mind map.
    - Provides a visual representation of concepts, helping users grasp relationships and concepts more effectively.
-     ![image](https://github.com/user-attachments/assets/7d5c0e6e-eb7e-4604-97c4-102e2b8a9bbc)
+   <img width="2928" height="884" alt="image" src="https://github.com/user-attachments/assets/0b32bd4a-81ab-4ce1-8537-5436a121ccba" />
 
 
 ### 7. **AI Chatbot**
