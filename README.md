@@ -118,7 +118,7 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
 ### 4. **Personalized Learning Path**
    - AI-driven system that creates a custom learning journey for users based on their skill level, preferences, and performance.
    - Adaptive learning that evolves with user progress, helping them improve effectively.
-     ![image](https://github.com/user-attachments/assets/cded5a12-fdb9-43fc-a7a4-9f44fac6605e)
+     <img width="2920" height="1604" alt="image" src="https://github.com/user-attachments/assets/89a50dee-fb04-43ca-b767-9c8488b64856" />
 
 
 ### 5. **AI-Powered Document Simplification**
