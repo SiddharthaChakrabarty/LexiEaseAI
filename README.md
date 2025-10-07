@@ -2,34 +2,40 @@
 
 **LexiEase AI** is an AI-powered system that offers personalized learning support for individuals with dyslexia. The platform provides dyslexia screening, tailored learning paths, and various assistive tools to improve accessibility and enhance learning outcomes for dyslexic individuals. 
 
-## 📑 Table of Contents
+## Table of Contents
 
-| Serial No. | Section Links                                                                                                                                                     |
-|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1          | [Introduction](#introduction)                                                                                                                                    |
-| 2          | [What Problems Does LexiEase AI Solve?](#-what-problems-does-lexiease-ai-solve)                                                                                   |
-| 3          | [Installation](#installation)                                                                                                                                    |
-| 4          | [Key Features](#key-features)                                                                                                                                    |
-|            | - [Phonological Awareness Test](#1-phonological-awareness-test)                                                                                                  |
-|            | - [Kaufman Assessment Battery Test](#2-kaufman-assessment-battery-test)                                                                                          |
-|            | - [Gray Oral Reading Test (GORT)](#3-gray-oral-reading-test-gort)                                                                                                |
-|            | - [Personalized Learning Path](#4-personalized-learning-path)                                                                                                    |
-|            | &nbsp;&nbsp;&nbsp;&nbsp;- [Reading Aloud Support](#10-reading-aloud-support)                                                                                     |
-|            | &nbsp;&nbsp;&nbsp;&nbsp;- [Reading Comprehension](#11-reading-comprehension)                                                                                     |
-|            | &nbsp;&nbsp;&nbsp;&nbsp;- [Memory Games](#12-memory-games)                                                                                                       |
-|            | &nbsp;&nbsp;&nbsp;&nbsp;- [Phonological Improvement Assistant](#13-phonological-improvement-assistant)                                                            |
-|            | - [AI-Powered Document Simplification](#5-ai-powered-document-simplification)                                                                                    |
-|            | - [Notes Generation](#6-notes-generation)                                                                                                                        |
-|            | - [Mind Map Generation from PDF](#7-mind-map-generation-from-pdf)                                                                                                |
-|            | - [AI Chatbot](#8-ai-chatbot)                                                                                                                                    |
-| 5          | [Project Architecture](#project-architecture)                                                                                                                    |
-| 6          | [User Flow](#user-flow)                                                                                                                                          |
-| 7          | [How It Works](#how-it-works)                                                                                                                                    |
-| 8          | [Snapshots of our Project](#snapshots-of-our-project)                                                                                                            |
-| 9          | [Technology Stack](#technology-stack)                                                                                                                            |
-| 10         | [Impact and Benefits for Users](#-impact-and-benefits-for-users)                                                                                                 |
-| 11         | [Technology Comparison](#-technology-comparison)                                                                                                                 |
-| 12         | [Business Relevance & Adoption Model](#-business-relevance--adoption-model)                                                                                      |
+- [Introduction](#introduction)
+- [What Problems Does LexiEase AI Solve?](#what-problems-does-lexiease-ai-solve)
+- [Installation](#installation)
+  - [Clone the Repository](#clone-the-repository)
+  - [Frontend Setup](#frontend-setup)
+  - [Backend Setup](#backend-setup)
+- [Idea](#idea)
+- [Dyslexia Screening Tests](#dyslexia-screening-tests)
+  - [Phonological Awareness Test](#phonological-awareness-test)
+  - [Kaufman Assessment Battery Test](#kaufman-assessment-battery-test)
+  - [Gray Oral Reading Test (GORT)](#gray-oral-reading-test-gort)
+- [Personalized Learning Paths](#personalized-learning-paths)
+  - [Reading Aloud Support](#reading-aloud-support)
+  - [Reading Comprehension](#reading-comprehension)
+  - [Memory Games](#memory-games)
+  - [Phonological Improvement Assistant](#phonological-improvement-assistant)
+- [Other Features](#other-features)
+  - [AI-Powered Writing Support](#ai-powered-writing-support)
+  - [AI Chatbot](#ai-chatbot)
+  - [AI-Powered Document Simplification](#ai-powered-document-simplification)
+  - [Notes & Mind Map Generation from PDF](#notes--mind-map-generation-from-pdf)
+- [Technology Stack](#technology-stack)
+- [Impact — Dyslexic Support System for Thales](#impact-—-dyslexic-support-system-for-thales)
+  - [Core Capabilities](#core-capabilities)
+  - [Defence & Security](#defence--security)
+  - [Aeronautics & Space](#aeronautics--space)
+  - [Cybersecurity & Digital Identity](#cybersecurity--digital-identity)
+  - [Cross-Domain Benefits](#cross-domain-benefits)
+- [Project Architecture](#project-architecture)
+- [User Flow](#user-flow)
+- [Snapshots of our Project](#snapshots-of-our-project)
+
 
 
 
@@ -45,7 +51,7 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
 
 
 
-## 🌟 What Problems Does LexiEase AI Solve?
+## What Problems Does LexiEase AI Solve?
 
 1. **Limited Access to Dyslexia Screening**  
    Many individuals with dyslexia struggle to get timely and affordable screenings, leading to delayed interventions and missed educational opportunities.
@@ -96,7 +102,7 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
        python app.py
       ```
 
-# Idea
+## Idea
 
 ## Dyslexia Screening Tests
 
