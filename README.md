@@ -100,73 +100,71 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
 
 ### 1. **Phonological Awareness Test**
    - A cognitive test designed to assess the user's ability to identify and manipulate sounds in spoken words. 
-   - Includes various subtests to measure awareness of phonemes, syllables, and rhymes.
+   - Includes various subtests to measure awareness of phonemes, syllables, and rhymes.  
      <img width="3964" height="1644" alt="image" src="https://github.com/user-attachments/assets/338a0022-ac5c-4c37-a5ff-0c74a1fb4997" />
 
 
 ### 2. **Kaufman Assessment Battery Test**
    - A comprehensive intelligence test that evaluates both verbal and non-verbal cognitive abilities.
-   - Provides insights into cognitive strengths and weaknesses, helping tailor learning paths for individuals.
+   - Provides insights into cognitive strengths and weaknesses, helping tailor learning paths for individuals.  
      <img width="3764" height="1632" alt="image" src="https://github.com/user-attachments/assets/87c72380-5e93-4d76-b435-90bbc3e1ddb4" />
 
 
 ### 3. **Gray Oral Reading Test (GORT)**
    - A standardized test to assess the fluency and comprehension of oral reading.
-   - Users read passages aloud, and the system evaluates speed, accuracy, and comprehension.
+   - Users read passages aloud, and the system evaluates speed, accuracy, and comprehension.  
      <img width="2844" height="1568" alt="image" src="https://github.com/user-attachments/assets/32ce4a78-2681-47a1-b8e1-9768aaae6ec2" />
 
 
 ### 4. **Personalized Learning Path**
    - AI-driven system that creates a custom learning journey for users based on their skill level, preferences, and performance.
-   - Adaptive learning that evolves with user progress, helping them improve effectively.
+   - Adaptive learning that evolves with user progress, helping them improve effectively.  
      <img width="2920" height="1604" alt="image" src="https://github.com/user-attachments/assets/89a50dee-fb04-43ca-b767-9c8488b64856" />
+
+#### 4.1 **Reading Aloud Support**
+   - Text-to-speech functionality to read out content for users, particularly those with visual impairments or learning disabilities.
+   - Helps improve literacy and comprehension by listening to the content aloud.  
+     <img width="3364" height="1688" alt="image" src="https://github.com/user-attachments/assets/62c9fb16-3eed-4c51-89e8-87c78ccd63f2" />
+
+#### 4.2 **Reading Comprehension**
+   - Tests and exercises to assess a user’s understanding of written text.
+   - Users answer questions based on passages, helping track and improve their comprehension skills.  
+     <img width="2244" height="1684" alt="image" src="https://github.com/user-attachments/assets/0f2d0bf5-4829-4851-a42e-47dadffb59c2" />
+
+#### 4.3 **Memory Games**
+   - Interactive memory-enhancing games designed to boost cognitive function and memory retention.
+   - Games focus on recall, recognition, and matching activities, making learning engaging and fun.  
+     <img width="2484" height="2048" alt="image" src="https://github.com/user-attachments/assets/4e06049b-0bc4-4ad4-9001-83668c161400" />
+
+#### 4.4 **Phonological Improvement Assistant**
+   - A virtual assistant to help users improve their phonological skills.
+   - Provides feedback, exercises, and tailored tips to enhance sound recognition and manipulation abilities.  
+     <img width="2648" height="1788" alt="image" src="https://github.com/user-attachments/assets/f51d5ece-d722-42b3-8cac-5c62573db2df" />
 
 
 ### 5. **AI-Powered Document Simplification**
    - Uses AI to simplify complex documents by rephrasing and summarizing content without losing essential meaning.
-   - Helps users better understand dense information by breaking it into simpler, digestible chunks.
-   - <img width="2284" height="616" alt="image" src="https://github.com/user-attachments/assets/72492cd7-b6e9-4780-986b-269100bc71dc" />
+   - Helps users better understand dense information by breaking it into simpler, digestible chunks.  
+     <img width="2284" height="616" alt="image" src="https://github.com/user-attachments/assets/72492cd7-b6e9-4780-986b-269100bc71dc" />
 
 
 ### 6. **Notes & Mind Map Generation from PDF**
    - Converts textual content from PDFs into a structured mind map.
-   - Provides a visual representation of concepts, helping users grasp relationships and concepts more effectively.
-   <img width="2928" height="884" alt="image" src="https://github.com/user-attachments/assets/0b32bd4a-81ab-4ce1-8537-5436a121ccba" />
+   - Provides a visual representation of concepts, helping users grasp relationships and concepts more effectively.  
+     <img width="2928" height="884" alt="image" src="https://github.com/user-attachments/assets/0b32bd4a-81ab-4ce1-8537-5436a121ccba" />
 
 
 ### 7. **AI Chatbot**
    - A conversational AI chatbot designed to answer user queries, provide study assistance, or explain concepts.
-   - It interacts in real-time, ensuring quick access to information or help as needed.
+   - It interacts in real-time, ensuring quick access to information or help as needed.  
      <img width="1804" height="964" alt="image" src="https://github.com/user-attachments/assets/f8208a6b-355b-473a-bbcc-2591b5817dd1" />
+
 
 ### 8. **AI Powered Writing Support**
    - The system extracts text from documents or images with a fine-tuned OCR pipeline and runs DistilBERT to automatically identify mistakes so users can see what's wrong quickly.
-   - Using DistilBERT again in a refinement loop, the feature improves coherence and fluency—restructuring sentences, fixing errors, and producing a cleaner, more polished version of the original text.
-   <img width="1268" height="928" alt="image" src="https://github.com/user-attachments/assets/c3b44b4f-7503-4e2b-a605-c08873f44f52" />
+   - Using DistilBERT again in a refinement loop, the feature improves coherence and fluency—restructuring sentences, fixing errors, and producing a cleaner, more polished version of the original text.  
+     <img width="1268" height="928" alt="image" src="https://github.com/user-attachments/assets/c3b44b4f-7503-4e2b-a605-c08873f44f52" />
 
-
-### 8. **Reading Aloud Support**
-   - Text-to-speech functionality to read out content for users, particularly those with visual impairments or learning disabilities.
-   - Helps improve literacy and comprehension by listening to the content aloud
-     <img width="3364" height="1688" alt="image" src="https://github.com/user-attachments/assets/62c9fb16-3eed-4c51-89e8-87c78ccd63f2" />
-
-
-### 9. **Reading Comprehension**
-   - Tests and exercises to assess a user’s understanding of written text.
-   - Users answer questions based on passages, helping track and improve their comprehension skills.
-     <img width="2244" height="1684" alt="image" src="https://github.com/user-attachments/assets/0f2d0bf5-4829-4851-a42e-47dadffb59c2" />
-
-
-### 10. **Memory Games**
-   - Interactive memory-enhancing games designed to boost cognitive function and memory retention.
-   - Games focus on recall, recognition, and matching activities, making learning engaging and fun.
-     <img width="2484" height="2048" alt="image" src="https://github.com/user-attachments/assets/4e06049b-0bc4-4ad4-9001-83668c161400" />
-
-
-### 11. **Phonological Improvement Assistant**
-   - A virtual assistant to help users improve their phonological skills.
-   - Provides feedback, exercises, and tailored tips to enhance sound recognition and manipulation abilities.
-     <img width="2648" height="1788" alt="image" src="https://github.com/user-attachments/assets/f51d5ece-d722-42b3-8cac-5c62573db2df" />
 
 
 ## Impact — Dyslexic Support System for Thales
