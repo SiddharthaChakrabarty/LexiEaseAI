@@ -14,14 +14,14 @@
 |            | - [Kaufman Assessment Battery Test](#2-kaufman-assessment-battery-test)                                                                                          |
 |            | - [Gray Oral Reading Test (GORT)](#3-gray-oral-reading-test-gort)                                                                                                |
 |            | - [Personalized Learning Path](#4-personalized-learning-path)                                                                                                    |
+|            | &nbsp;&nbsp;&nbsp;&nbsp;- [Reading Aloud Support](#10-reading-aloud-support)                                                                                     |
+|            | &nbsp;&nbsp;&nbsp;&nbsp;- [Reading Comprehension](#11-reading-comprehension)                                                                                     |
+|            | &nbsp;&nbsp;&nbsp;&nbsp;- [Memory Games](#12-memory-games)                                                                                                       |
+|            | &nbsp;&nbsp;&nbsp;&nbsp;- [Phonological Improvement Assistant](#13-phonological-improvement-assistant)                                                            |
 |            | - [AI-Powered Document Simplification](#5-ai-powered-document-simplification)                                                                                    |
 |            | - [Notes Generation](#6-notes-generation)                                                                                                                        |
 |            | - [Mind Map Generation from PDF](#7-mind-map-generation-from-pdf)                                                                                                |
-|            | - [AI Chatbot](#8-ai-chatbot)                                                                                                                                   |
-|            | - [Reading Aloud Support](#10-reading-aloud-support)                                                                                                            |
-|            | - [Reading Comprehension](#11-reading-comprehension)                                                                                                             |
-|            | - [Memory Games](#12-memory-games)                                                                                                                               |
-|            | - [Phonological Improvement Assistant](#13-phonological-improvement-assistant)                                                                                   |
+|            | - [AI Chatbot](#8-ai-chatbot)                                                                                                                                    |
 | 5          | [Project Architecture](#project-architecture)                                                                                                                    |
 | 6          | [User Flow](#user-flow)                                                                                                                                          |
 | 7          | [How It Works](#how-it-works)                                                                                                                                    |
@@ -30,6 +30,7 @@
 | 10         | [Impact and Benefits for Users](#-impact-and-benefits-for-users)                                                                                                 |
 | 11         | [Technology Comparison](#-technology-comparison)                                                                                                                 |
 | 12         | [Business Relevance & Adoption Model](#-business-relevance--adoption-model)                                                                                      |
+
 
 
 
