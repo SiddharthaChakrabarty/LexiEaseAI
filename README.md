@@ -106,13 +106,13 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
 ### 2. **Kaufman Assessment Battery Test**
    - A comprehensive intelligence test that evaluates both verbal and non-verbal cognitive abilities.
    - Provides insights into cognitive strengths and weaknesses, helping tailor learning paths for individuals.
-     ![image](https://github.com/user-attachments/assets/bac2aeea-4660-458d-b91f-01171249dfa6)
+     <img width="3764" height="1632" alt="image" src="https://github.com/user-attachments/assets/87c72380-5e93-4d76-b435-90bbc3e1ddb4" />
 
 
 ### 3. **Gray Oral Reading Test (GORT)**
    - A standardized test to assess the fluency and comprehension of oral reading.
    - Users read passages aloud, and the system evaluates speed, accuracy, and comprehension.
-     ![image](https://github.com/user-attachments/assets/2563bc8d-c4e2-4992-bb52-6c87ce1b4546)
+     <img width="2844" height="1568" alt="image" src="https://github.com/user-attachments/assets/32ce4a78-2681-47a1-b8e1-9768aaae6ec2" />
 
 
 ### 4. **Personalized Learning Path**
