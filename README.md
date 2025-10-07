@@ -102,7 +102,7 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
 ### 1. **Phonological Awareness Test**
    - A cognitive test designed to assess the user's ability to identify and manipulate sounds in spoken words. 
    - Includes various subtests to measure awareness of phonemes, syllables, and rhymes.
-     ![image](https://github.com/user-attachments/assets/f00cbebf-2fb9-4e57-b117-486ce556307a)
+     <img width="3964" height="1644" alt="image" src="https://github.com/user-attachments/assets/338a0022-ac5c-4c37-a5ff-0c74a1fb4997" />
 
 
 ### 2. **Kaufman Assessment Battery Test**
