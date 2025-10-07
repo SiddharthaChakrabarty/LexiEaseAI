@@ -2,6 +2,10 @@
 
 **LexiEase AI** is an AI-powered system that offers personalized learning support for individuals with dyslexia. The platform provides dyslexia screening, tailored learning paths, and various assistive tools to improve accessibility and enhance learning outcomes for dyslexic individuals. 
 
+<img width="952" height="533" alt="image" src="https://github.com/user-attachments/assets/cdc28302-987e-4d03-8836-cd8ccdf26cf3" />
+
+---
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -36,9 +40,7 @@
 - [User Flow](#user-flow)
 - [Snapshots of our Project](#snapshots-of-our-project)
 
-
-
-
+---
 
 ## Introduction
 
@@ -46,10 +48,9 @@ Welcome to **LexiEaseAI** – a powerful, AI-driven learning platform designed t
 
 Whether you’re aiming to improve phonological awareness, boost reading comprehension, or simplify complex documents, LexiEaseAI is here to make learning accessible, efficient, and enjoyable. With intuitive tools like memory games, mind map generation, and real-time chat assistance, this platform empowers learners of all backgrounds to reach their full potential.
 
+<img width="947" height="533" alt="image" src="https://github.com/user-attachments/assets/c1ae44db-fac8-4b6c-8917-b3df684e2138" />
 
-Start your journey with LexiEaseAI today, and unlock the power of personalized, AI-enhanced education!
-
-
+---
 
 ## What Problems Does LexiEase AI Solve?
 
@@ -62,6 +63,7 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
 3. **Insufficient Support Tools for Dyslexic Learners**  
    Dyslexic individuals often lack access to specialized tools, like writing assistants and document simplifiers, that can make reading and learning more accessible and enjoyable.
 
+---
 
 ## Installation
 
@@ -101,10 +103,13 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
       ```bash
        python app.py
       ```
+---
 
 ## Idea
 
 ## Dyslexia Screening Tests
+
+<img width="946" height="528" alt="image" src="https://github.com/user-attachments/assets/388cae9c-8371-420c-9903-fad13c83f248" />
 
 ### 1. Phonological Awareness Test
 - A cognitive test designed to assess the user's ability to identify and manipulate sounds in spoken words.  
@@ -121,7 +126,11 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
 - Users read passages aloud, and the system evaluates speed, accuracy, and comprehension.  
 ![Gray Oral Reading Test](https://github.com/user-attachments/assets/32ce4a78-2681-47a1-b8e1-9768aaae6ec2)
 
+---
+
 ## Personalized Learning Paths
+
+<img width="946" height="532" alt="image" src="https://github.com/user-attachments/assets/c467f4ed-4dc3-40bd-910b-475dca7d0eed" />
 
 ### 1. Reading Aloud Support
 - Text-to-speech functionality to read out content for users, particularly those with visual impairments or learning disabilities.  
@@ -143,7 +152,11 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
 - Provides feedback, exercises, and tailored tips to enhance sound recognition and manipulation abilities.  
 ![Phonological Improvement Assistant](https://github.com/user-attachments/assets/f51d5ece-d722-42b3-8cac-5c62573db2df)
 
+---
+
 ## Other Features
+
+<img width="947" height="532" alt="image" src="https://github.com/user-attachments/assets/043feb34-a031-41b1-99d9-7a1df510d8b5" />
 
 ### 1. AI-Powered Writing Support
 - Extracts text from documents or images using a fine-tuned OCR pipeline.  
@@ -164,6 +177,7 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
 - Provides visual representation of concepts, aiding understanding of relationships and ideas.  
 ![Notes & Mind Map Generation](https://github.com/user-attachments/assets/0b32bd4a-81ab-4ce1-8537-5436a121ccba)
 
+---
 
 ## Technology Stack
 
@@ -180,13 +194,11 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
 | Authentication & Security | OAuth2, bcrypt, JWT |
 | Accessibility | OpenDyslexic fonts, Dyslexic-friendly spacing | 
 
-
-
-
-
 ## Impact — Dyslexic Support System for Thales
 
 > **Focus:** how **LexiEase** (dyslexic support) delivers concrete value across Thales’s **Defence & Security**, **Aeronautics & Space**, and **Cybersecurity & Digital Identity** domains.
+
+<img width="945" height="531" alt="image" src="https://github.com/user-attachments/assets/0562c2c3-1685-4eb8-bc17-244a12140f3b" />
 
 ---
 
