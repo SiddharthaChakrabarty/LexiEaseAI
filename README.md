@@ -154,7 +154,7 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
 ### 10. **Memory Games**
    - Interactive memory-enhancing games designed to boost cognitive function and memory retention.
    - Games focus on recall, recognition, and matching activities, making learning engaging and fun.
-     ![image](https://github.com/user-attachments/assets/2f657c57-e768-47db-85f9-9d1764b839f5)
+     <img width="2484" height="2048" alt="image" src="https://github.com/user-attachments/assets/4e06049b-0bc4-4ad4-9001-83668c161400" />
 
 
 ### 11. **Phonological Improvement Assistant**
