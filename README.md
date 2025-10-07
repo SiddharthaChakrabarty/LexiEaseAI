@@ -138,6 +138,8 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
    - It interacts in real-time, ensuring quick access to information or help as needed.
      <img width="1804" height="964" alt="image" src="https://github.com/user-attachments/assets/f8208a6b-355b-473a-bbcc-2591b5817dd1" />
 
+<img width="1268" height="928" alt="image" src="https://github.com/user-attachments/assets/c3b44b4f-7503-4e2b-a605-c08873f44f52" />
+
 
 ### 8. **Reading Aloud Support**
    - Text-to-speech functionality to read out content for users, particularly those with visual impairments or learning disabilities.
