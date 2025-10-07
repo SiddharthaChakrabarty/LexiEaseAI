@@ -127,44 +127,38 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
    - <img width="2284" height="616" alt="image" src="https://github.com/user-attachments/assets/72492cd7-b6e9-4780-986b-269100bc71dc" />
 
 
-### 6. **Notes Generation**
-   - Automatically generates concise, relevant notes from documents or lectures.
-   - Allows users to review key points and important details for better retention and studying.
-     ![image](https://github.com/user-attachments/assets/af37b81a-938d-44be-a747-4adac6e5d38a)
-
-
-### 7. **Mind Map Generation from PDF**
+### 6. **Notes & Mind Map Generation from PDF**
    - Converts textual content from PDFs into a structured mind map.
    - Provides a visual representation of concepts, helping users grasp relationships and concepts more effectively.
      ![image](https://github.com/user-attachments/assets/7d5c0e6e-eb7e-4604-97c4-102e2b8a9bbc)
 
 
-### 8. **AI Chatbot**
+### 7. **AI Chatbot**
    - A conversational AI chatbot designed to answer user queries, provide study assistance, or explain concepts.
    - It interacts in real-time, ensuring quick access to information or help as needed.
      ![image](https://github.com/user-attachments/assets/104e8d51-be29-4528-9eec-cccea7039c86)
 
 
-### 9. **Reading Aloud Support**
+### 8. **Reading Aloud Support**
    - Text-to-speech functionality to read out content for users, particularly those with visual impairments or learning disabilities.
    - Helps improve literacy and comprehension by listening to the content aloud
      ![image](https://github.com/user-attachments/assets/fdf70ee1-04dc-47d4-8216-0f304cf1f5e1)
 
 
 
-### 10. **Reading Comprehension**
+### 9. **Reading Comprehension**
    - Tests and exercises to assess a user’s understanding of written text.
    - Users answer questions based on passages, helping track and improve their comprehension skills.
      ![image](https://github.com/user-attachments/assets/6c5d10ed-be24-46dd-a06f-a3ed9582f9e8)
 
 
-### 11. **Memory Games**
+### 10. **Memory Games**
    - Interactive memory-enhancing games designed to boost cognitive function and memory retention.
    - Games focus on recall, recognition, and matching activities, making learning engaging and fun.
      ![image](https://github.com/user-attachments/assets/2f657c57-e768-47db-85f9-9d1764b839f5)
 
 
-### 12. **Phonological Improvement Assistant**
+### 11. **Phonological Improvement Assistant**
    - A virtual assistant to help users improve their phonological skills.
    - Provides feedback, exercises, and tailored tips to enhance sound recognition and manipulation abilities.
      ![image](https://github.com/user-attachments/assets/492fc684-6e88-49e2-a1fe-3a4d7e17839d)
