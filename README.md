@@ -142,8 +142,7 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
 ### 8. **Reading Aloud Support**
    - Text-to-speech functionality to read out content for users, particularly those with visual impairments or learning disabilities.
    - Helps improve literacy and comprehension by listening to the content aloud
-     ![image](https://github.com/user-attachments/assets/fdf70ee1-04dc-47d4-8216-0f304cf1f5e1)
-
+     <img width="3364" height="1688" alt="image" src="https://github.com/user-attachments/assets/62c9fb16-3eed-4c51-89e8-87c78ccd63f2" />
 
 
 ### 9. **Reading Comprehension**
