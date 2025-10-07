@@ -225,7 +225,7 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
 
 ## Project Architecture
 
-![Dyslexia drawio (2)](https://github.com/user-attachments/assets/d25228c6-15cb-4e62-bd5c-3a922913e14c)
+<img width="4484" height="3128" alt="image" src="https://github.com/user-attachments/assets/9bfc7e71-9162-4422-8976-3b9c6853f94c" />
 
 ## User Flow
 ![image](https://github.com/user-attachments/assets/a1a63b5f-5e55-4033-a5ce-711da18bca2f)
