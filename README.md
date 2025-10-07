@@ -148,7 +148,7 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
 ### 9. **Reading Comprehension**
    - Tests and exercises to assess a user’s understanding of written text.
    - Users answer questions based on passages, helping track and improve their comprehension skills.
-     ![image](https://github.com/user-attachments/assets/6c5d10ed-be24-46dd-a06f-a3ed9582f9e8)
+     <img width="2244" height="1684" alt="image" src="https://github.com/user-attachments/assets/0f2d0bf5-4829-4851-a42e-47dadffb59c2" />
 
 
 ### 10. **Memory Games**
