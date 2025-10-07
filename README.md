@@ -124,7 +124,7 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
 ### 5. **AI-Powered Document Simplification**
    - Uses AI to simplify complex documents by rephrasing and summarizing content without losing essential meaning.
    - Helps users better understand dense information by breaking it into simpler, digestible chunks.
-     ![image](https://github.com/user-attachments/assets/7cc9e42a-44ce-4d4f-ab61-bc2218db0e23)
+     <img width="2164" height="556" alt="image" src="https://github.com/user-attachments/assets/27337e5e-eb4f-498a-91f0-64442d425ebf" />
 
 
 ### 6. **Notes Generation**
