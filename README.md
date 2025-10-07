@@ -165,7 +165,7 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
 ### 11. **Phonological Improvement Assistant**
    - A virtual assistant to help users improve their phonological skills.
    - Provides feedback, exercises, and tailored tips to enhance sound recognition and manipulation abilities.
-     ![image](https://github.com/user-attachments/assets/492fc684-6e88-49e2-a1fe-3a4d7e17839d)
+     <img width="2648" height="1788" alt="image" src="https://github.com/user-attachments/assets/f51d5ece-d722-42b3-8cac-5c62573db2df" />
 
 
 ## Impact — Dyslexic Support System for Thales
