@@ -165,6 +165,23 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
    - Using DistilBERT again in a refinement loop, the feature improves coherence and fluency—restructuring sentences, fixing errors, and producing a cleaner, more polished version of the original text.  
      <img width="1268" height="928" alt="image" src="https://github.com/user-attachments/assets/c3b44b4f-7503-4e2b-a605-c08873f44f52" />
 
+## Technology Stack
+
+| Layer / Component | Technologies / Libraries | 
+|-------------------|--------------------------|
+| Frontend | React, Tailwind CSS |
+| Backend | Flask (Python) | 
+| Machine Learning / NLP | PyTorch, Hugging Face Transformers (DistilBERT, custom fine-tuning), scikit-learn | 
+| Speech & Audio | gTTS & SpeechRecognition(JS) | 
+| OCR & Computer Vision | Tesseract, EasyOCR, OpenCV | 
+| Document Processing | PyPDF | 
+| Personalization / Recommender | Custom rule-based engine | 
+| Database & Storage | MySQL | 
+| Authentication & Security | OAuth2, bcrypt, JWT |
+| Accessibility | OpenDyslexic fonts, Dyslexic-friendly spacing | 
+
+
+
 
 
 ## Impact — Dyslexic Support System for Thales
@@ -221,6 +238,7 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
 
 
 
+
 ## Project Architecture
 
 <img width="4484" height="3128" alt="image" src="https://github.com/user-attachments/assets/9bfc7e71-9162-4422-8976-3b9c6853f94c" />
@@ -238,45 +256,10 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
 ![image](https://github.com/user-attachments/assets/046948f9-dc73-461a-9700-411e6ed37034)
 
 
-## 📊 Impact and Benefits for Users
-
-| **Impact/Benefit**                           | **Description**                                                                                                 |
-|----------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| **Improved Accessibility**                   | Offers dyslexia-friendly fonts, simplified document views, and multi-language support, enhancing accessibility for diverse users. |
-| **Personalized Learning Paths**              | Adapts learning materials and exercises to individual severity levels, improving user engagement and learning outcomes. |
-| **Enhanced Learning Support**                | Provides tools like an AI Writing Assistant, phonological improvement activities, and memory games, supporting comprehensive skill development. |
-| **Community and Psychological Support**      | Builds a supportive network, connecting dyslexic individuals and psychologists to foster shared understanding and growth. |
-| **Time and Cost Efficiency**                 | Reduces dependency on third-party intervention, enabling users to access resources independently and at a lower cost. |
 
 
-## 🔍 Technology Comparison
-
-| **Feature/Capability**           | **LexiEase AI** (Our Technology)                                     | **Traditional Tools**                          | **Basic Assistive Software**           |
-|----------------------------------|-----------------------------------------------------------------------|------------------------------------------------|----------------------------------------|
-| **Personalization**              | Tailored learning aids based on user needs                           | One-size-fits-all approach                    | Limited customization options          |
-| **Real-Time Adaptability**       | Adapts content and difficulty dynamically in real-time               | Static content; no real-time feedback         | Minimal real-time interaction          |
-| **Data-Driven Insights**         | Uses AI to generate insights and track progress                      | No tracking or insights provided              | Basic tracking without analytics       |
-| **Seamless Integration**         | Easily integrates with EdTech, healthcare, and corporate platforms   | Standalone; limited integration capabilities  | Integration may require additional setup |
 
 
-## 🚀 Business Relevance & Adoption Model
-
-LexiEase AI provides a comprehensive solution that can be seamlessly integrated into various business models, making it ideal for companies looking to improve accessibility and inclusivity. Here’s how businesses can adopt and benefit from LexiEase AI:
-
-| **Business Integration**        | **Description**                                                                                                                                                 |
-|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **👩‍💼 EdTech Platforms**         | Integrate LexiEase AI as a value-added service to offer personalized dyslexia support, attracting a broader user base and fulfilling inclusivity goals.       |
-| **🏥 Healthcare Providers**       | Utilize LexiEase AI’s screening and personalized support features to provide early intervention tools for dyslexic patients, adding value to patient care.     |
-| **🏫 Educational Institutions**   | Schools and universities can adopt LexiEase AI to support dyslexic students with tailored learning aids, enhancing student engagement and performance.          |
-| **📊 Corporates & Employers**     | Implement LexiEase AI within corporate learning management systems to ensure inclusive training resources for employees with dyslexia, fostering diversity.    |
-| **💼 Non-Profits & NGOs**         | Leverage LexiEase AI to support initiatives aimed at learning disabilities, increasing outreach effectiveness and empowering communities with dyslexia.       |
-
-### 🌐 Why Businesses Should Integrate LexiEase AI
-1. **Boost Corporate Social Responsibility (CSR)**: By supporting dyslexic individuals, businesses can demonstrate their commitment to inclusivity and accessibility.
-2. **Enhance Brand Image**: Associating with a forward-thinking, inclusive solution enhances brand value and public perception.
-3. **Access New User Segments**: Integration opens opportunities to reach individuals and families affected by dyslexia, expanding the customer base.
-
-**LexiEase AI is designed to not only support dyslexic individuals but also provide businesses with a scalable, impactful solution to enhance inclusivity and meet accessibility standards.**
 
 
 
