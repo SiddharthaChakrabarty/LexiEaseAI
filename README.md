@@ -136,7 +136,7 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
 ### 7. **AI Chatbot**
    - A conversational AI chatbot designed to answer user queries, provide study assistance, or explain concepts.
    - It interacts in real-time, ensuring quick access to information or help as needed.
-     ![image](https://github.com/user-attachments/assets/104e8d51-be29-4528-9eec-cccea7039c86)
+     <img width="1804" height="964" alt="image" src="https://github.com/user-attachments/assets/f8208a6b-355b-473a-bbcc-2591b5817dd1" />
 
 
 ### 8. **Reading Aloud Support**
