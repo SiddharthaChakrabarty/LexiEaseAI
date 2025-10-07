@@ -138,7 +138,10 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
    - It interacts in real-time, ensuring quick access to information or help as needed.
      <img width="1804" height="964" alt="image" src="https://github.com/user-attachments/assets/f8208a6b-355b-473a-bbcc-2591b5817dd1" />
 
-<img width="1268" height="928" alt="image" src="https://github.com/user-attachments/assets/c3b44b4f-7503-4e2b-a605-c08873f44f52" />
+### 8. **AI Powered Writing Support**
+   - The system extracts text from documents or images with a fine-tuned OCR pipeline and runs DistilBERT to automatically identify mistakes so users can see what's wrong quickly.
+   - Using DistilBERT again in a refinement loop, the feature improves coherence and fluency—restructuring sentences, fixing errors, and producing a cleaner, more polished version of the original text.
+   <img width="1268" height="928" alt="image" src="https://github.com/user-attachments/assets/c3b44b4f-7503-4e2b-a605-c08873f44f52" />
 
 
 ### 8. **Reading Aloud Support**
