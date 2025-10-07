@@ -18,7 +18,6 @@
 |            | - [Notes Generation](#6-notes-generation)                                                                                                                        |
 |            | - [Mind Map Generation from PDF](#7-mind-map-generation-from-pdf)                                                                                                |
 |            | - [AI Chatbot](#8-ai-chatbot)                                                                                                                                   |
-|            | - [Deployment on Vultr Compute Instance](#9-deployment-on-vultr-compute-instance)                                                                                |
 |            | - [Reading Aloud Support](#10-reading-aloud-support)                                                                                                            |
 |            | - [Reading Comprehension](#11-reading-comprehension)                                                                                                             |
 |            | - [Memory Games](#12-memory-games)                                                                                                                               |
@@ -40,7 +39,6 @@ Welcome to **LexiEaseAI** – a powerful, AI-driven learning platform designed t
 
 Whether you’re aiming to improve phonological awareness, boost reading comprehension, or simplify complex documents, LexiEaseAI is here to make learning accessible, efficient, and enjoyable. With intuitive tools like memory games, mind map generation, and real-time chat assistance, this platform empowers learners of all backgrounds to reach their full potential.
 
-**Hosted on Vultr’s reliable infrastructure**, LexiEaseAI ensures fast, secure, and scalable access to its comprehensive suite of features – all crafted to support a seamless learning experience.
 
 Start your journey with LexiEaseAI today, and unlock the power of personalized, AI-enhanced education!
 
@@ -62,7 +60,7 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
 
 1. Clone the Repository
    ```bash
-   git clone https://github.com/JainSneha6/LexiEaseAI.git
+   git clone https://github.com/SiddharthaChakrabarty/LexiEaseAI.git
    cd LexiEaseAI
    ```
 2. Frontend Setup
@@ -147,32 +145,26 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
      ![image](https://github.com/user-attachments/assets/104e8d51-be29-4528-9eec-cccea7039c86)
 
 
-### 9. **Deployment on Vultr Compute Instance**
-   - The entire app is hosted on a Vultr Compute Instance, providing scalability and reliability for both frontend and backend.
-   - This ensures a smooth user experience with minimal downtime.
-     ![image](https://github.com/user-attachments/assets/edf74282-b7eb-4f1b-ac38-fad21cc39fa4)
-
-
-### 10. **Reading Aloud Support**
+### 9. **Reading Aloud Support**
    - Text-to-speech functionality to read out content for users, particularly those with visual impairments or learning disabilities.
    - Helps improve literacy and comprehension by listening to the content aloud
      ![image](https://github.com/user-attachments/assets/fdf70ee1-04dc-47d4-8216-0f304cf1f5e1)
 
 
 
-### 11. **Reading Comprehension**
+### 10. **Reading Comprehension**
    - Tests and exercises to assess a user’s understanding of written text.
    - Users answer questions based on passages, helping track and improve their comprehension skills.
      ![image](https://github.com/user-attachments/assets/6c5d10ed-be24-46dd-a06f-a3ed9582f9e8)
 
 
-### 12. **Memory Games**
+### 11. **Memory Games**
    - Interactive memory-enhancing games designed to boost cognitive function and memory retention.
    - Games focus on recall, recognition, and matching activities, making learning engaging and fun.
      ![image](https://github.com/user-attachments/assets/2f657c57-e768-47db-85f9-9d1764b839f5)
 
 
-### 13. **Phonological Improvement Assistant**
+### 12. **Phonological Improvement Assistant**
    - A virtual assistant to help users improve their phonological skills.
    - Provides feedback, exercises, and tailored tips to enhance sound recognition and manipulation abilities.
      ![image](https://github.com/user-attachments/assets/492fc684-6e88-49e2-a1fe-3a4d7e17839d)
@@ -186,16 +178,6 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
 ## User Flow
 ![image](https://github.com/user-attachments/assets/a1a63b5f-5e55-4033-a5ce-711da18bca2f)
 
-## How It Works
-| **Step** | **Description**                                    |
-|----------|----------------------------------------------------|
-| **1. User Interaction** | Users interact with the frontend (React) to submit requests for backend services. |
-| **2. API Request**      | Frontend sends API requests to the Flask backend for processing (e.g., data fetching, file uploads). |
-| **3. Data Processing**  | The Flask backend processes the request, interacts with the Vultr Managed MySQL database, and fetches or updates data. |
-| **4. File Handling**    | For file uploads, data is stored in Vultr Block Storage, ensuring efficient and scalable file management. |
-| **5. Response to Frontend** | The backend sends a response with the requested data or status back to the frontend for display. |
-| **6. Hosting & Security** | The app is hosted on Vultr Compute Instances with Nginx as a reverse proxy, ensuring secure and scalable access to both frontend and backend. |
-
 
 ## Snapshots of our Project
 ![image](https://github.com/user-attachments/assets/bb52cd20-16fe-49f6-b95c-e973a44e52fe)
@@ -205,25 +187,6 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
 ![image](https://github.com/user-attachments/assets/f09e8b34-cf84-4ba0-bdfd-98d519aeaa49)
 ![image](https://github.com/user-attachments/assets/046948f9-dc73-461a-9700-411e6ed37034)
 
-
-## Technology Stack
-
-| **Layer/Component**        | **Technology/Tool**                    |
-|----------------------------|----------------------------------------|
-| **Backend Framework**       | Flask                                  |
-| **Web Server**              | Nginx                                  |
-| **Database**                | Vultr Managed MySQL Database          |
-| **Storage**                 | Vultr Block Storage                   |
-| **Hosting**                 | Vultr Compute Instance (Frontend & Backend) |
-| **Programming Language**    | Python (Flask)                         |
-| **API**                     | REST API (Flask)                      |
-| **File Uploads**            | Flask (File handling)                 |
-| **Security**                | Nginx (Reverse Proxy, SSL)            |
-| **Containerization**        | Docker       |
-| **Version Control**         | Git (GitHub)                          |
-| **Environment Variables**   | Python-dotenv                         |
-| **Logging**                 | Flask-Logging, Nginx logs             |
-| **Error Handling**          | Flask error handling                  |
 
 ## 📊 Impact and Benefits for Users
 
