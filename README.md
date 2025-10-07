@@ -170,6 +170,89 @@ Start your journey with LexiEaseAI today, and unlock the power of personalized, 
      ![image](https://github.com/user-attachments/assets/492fc684-6e88-49e2-a1fe-3a4d7e17839d)
 
 
+# Impact within Thales’s Key Business Domains
+
+> **Note:** The following maps **LexiEase AI’s** capabilities to concrete value propositions for **Thales** across its **Defence & Security**, **Aeronautics & Space**, and **Cybersecurity & Digital Identity** domains.  
+> Emphasis is on **operational readiness**, **safety-critical training**, **inclusivity**, and **secure handling of sensitive information**.
+
+---
+
+## 🛡️ Defence & Security
+
+### **Operational Readiness & Training**
+- Many defence roles require rapid ingestion of technical procedures, checklists, and rules of engagement.  
+- **LexiEase’s document simplification + TTS + personalized revision schedules** reduce comprehension errors and shorten time-to-proficiency for dyslexic personnel — improving mission readiness.
+
+### **Reduced Human Error**
+- Clearer, simplified SOPs and checklists minimize misinterpretation in high-stakes environments (armament procedures, maintenance checklists).  
+- Dual-view format (simplified + original versions) maintains **legal and technical fidelity** while reducing **cognitive load** for the operator.
+
+### **Inclusive Recruitment & Retention**
+- Tailored training enables dyslexic employees to succeed, improving **diversity**, **retention**, and **access to underutilized talent pools**.
+
+### **Secure, Audit-Ready Screening**
+- **On-prem deployments** with hardened security let Thales conduct workforce screenings within **classification and compliance boundaries**.  
+- **Audit trails** support medico-legal documentation requirements.
+
+---
+
+## ✈️ Aeronautics & Space
+
+### **Technical Documentation & Maintenance Manuals**
+- Aircraft and spacecraft maintenance documentation is complex and frequently updated.  
+- LexiEase creates **dyslexia-friendly renditions** of procedures, wiring explanations, and troubleshooting guides—helping crews follow **safety-critical steps** more reliably.
+
+### **Pilot & Crew Training**
+- Flight manuals, emergency procedures, and checklists benefit from **multimodal presentation** (audio + simplified text + mind maps).  
+- Faster comprehension = **faster reaction in abnormal procedures** → direct **operational safety benefit**.
+
+### **Human Factors & Cognitive Load Reduction**
+- By reducing **extraneous cognitive load**, LexiEase helps operators focus on **salient signals**—critical under high-G or high-stress conditions.  
+- **Analytics** highlight confusion points, informing better **cockpit display** and **documentation design**.
+
+### **Simulation & Certification Support**
+- Integrates **personalized learning paths** into simulator-based training programs to **shorten certification timelines** for personnel with reading challenges while maintaining **safety and proficiency standards**.
+
+---
+
+## 🔐 Cybersecurity & Digital Identity
+
+### **Secure Onboarding & Identity Documentation**
+- Simplifies complex **identity policies**, **authentication flows**, and **security procedures** for users and admins.  
+- Reduces **configuration errors** that could otherwise introduce **attack vectors**.
+
+### **Phishing Resilience & Training**
+- Provides **personalized microlearning modules** teaching recognition of social-engineering cues.  
+- Uses **simplified language** and **spaced repetition** to improve workforce **phishing resistance metrics** — directly lowering organizational cyber risk.
+
+### **Access Control & Data Privacy Alignment**
+- Operates within strict **identity management frameworks** (SSO, ABAC, encrypted storage).  
+- Integrates with Thales’s **Digital Identity** solutions to provide **accessible UX** without weakening **security posture**.
+
+### **Regulatory & Compliance Enablement**
+- Features **audit trails**, **consent management**, and **data anonymization** pathways aligned with **privacy and data protection requirements**.  
+- Particularly useful when handling **identity-linked screening** or **health-adjacent data**.
+
+---
+
+## 🌐 Cross-Domain Benefits (Applies to All Business Areas)
+
+### **Safety & Mission Assurance**
+- Simplifying procedural content reduces misunderstandings that could escalate into **mission failure** or **safety incidents**.
+
+### **Workforce Resilience & Lifelong Learning**
+- Supports **continuous upskilling** and **neurodiversity inclusion** — a strategic HR advantage for high-knowledge organizations like Thales.
+
+### **Cost Savings & Efficiency**
+- Fewer remediation sessions, lower instructor time per trainee, and reduced maintenance errors lead to **tangible operational savings**.
+
+### **Customizable Deployment Models**
+- **Cloud, hybrid, or fully on-prem** deployment options meet Thales’s **classification and security policies** — including **air-gapped or accredited environments**.
+
+---
+
+
+
 
 ## Project Architecture
 
