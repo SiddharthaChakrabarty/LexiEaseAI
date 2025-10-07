@@ -11,7 +11,7 @@ import traceback
 
 API_KEY = "AIzaSyC6X83C-yPa-KYJnajVxPIYvisYOcQcqmc"
 genai.configure(api_key=API_KEY)
-model = genai.GenerativeModel('gemini-1.5-flash')
+model = genai.GenerativeModel('gemini-2.5-flash')
 
 app = Flask(__name__)
 CORS(app, supports_credentials=True, resources={r"/api/*": {"origins": "http://localhost:3000"}})
