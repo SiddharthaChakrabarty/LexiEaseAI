@@ -11,26 +11,23 @@
 - [Introduction](#introduction)
 - [What Problems Does LexiEase AI Solve?](#what-problems-does-lexiease-ai-solve)
 - [Installation](#installation)
-  - [Clone the Repository](#clone-the-repository)
-  - [Frontend Setup](#frontend-setup)
-  - [Backend Setup](#backend-setup)
 - [Idea](#idea)
 - [Dyslexia Screening Tests](#dyslexia-screening-tests)
-  - [Phonological Awareness Test](#phonological-awareness-test)
-  - [Kaufman Assessment Battery Test](#kaufman-assessment-battery-test)
-  - [Gray Oral Reading Test (GORT)](#gray-oral-reading-test-gort)
+  - [Phonological Awareness Test](#1-phonological-awareness-test)
+  - [Kaufman Assessment Battery Test](#2-kaufman-assessment-battery-test)
+  - [Gray Oral Reading Test (GORT)](#3-gray-oral-reading-test-gort)
 - [Personalized Learning Paths](#personalized-learning-paths)
-  - [Reading Aloud Support](#reading-aloud-support)
-  - [Reading Comprehension](#reading-comprehension)
-  - [Memory Games](#memory-games)
-  - [Phonological Improvement Assistant](#phonological-improvement-assistant)
+  - [Reading Aloud Support](#1-reading-aloud-support)
+  - [Reading Comprehension](#2-reading-comprehension)
+  - [Memory Games](#3-memory-games)
+  - [Phonological Improvement Assistant](#4-phonological-improvement-assistant)
 - [Other Features](#other-features)
-  - [AI-Powered Writing Support](#ai-powered-writing-support)
-  - [AI Chatbot](#ai-chatbot)
-  - [AI-Powered Document Simplification](#ai-powered-document-simplification)
-  - [Notes & Mind Map Generation from PDF](#notes--mind-map-generation-from-pdf)
+  - [AI-Powered Writing Support](#1-ai-powered-writing-support)
+  - [AI Chatbot](#2-ai-chatbot)
+  - [AI-Powered Document Simplification](#3-ai-powered-document-simplification)
+  - [Notes & Mind Map Generation from PDF](#4-notes--mind-map-generation-from-pdf)
 - [Technology Stack](#technology-stack)
-- [Impact — Dyslexic Support System for Thales](#impact-—-dyslexic-support-system-for-thales)
+- [Impact of Dyslexic Support System for Thales](#impact-of-dyslexic-support-system-for-thales)
   - [Core Capabilities](#core-capabilities)
   - [Defence & Security](#defence--security)
   - [Aeronautics & Space](#aeronautics--space)
@@ -194,7 +191,7 @@ Whether you’re aiming to improve phonological awareness, boost reading compreh
 | Authentication & Security | OAuth2, bcrypt, JWT |
 | Accessibility | OpenDyslexic fonts, Dyslexic-friendly spacing | 
 
-## Impact — Dyslexic Support System for Thales
+## Impact of Dyslexic Support System for Thales
 
 > **Focus:** how **LexiEase** (dyslexic support) delivers concrete value across Thales’s **Defence & Security**, **Aeronautics & Space**, and **Cybersecurity & Digital Identity** domains.
 
